@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\tusha\OneDrive\Desktop\NewGIT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2814333075.index
+\com.manual\src\main\resources
+C:\Users\tusha\OneDrive\Desktop\NewGIT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2084334515.index
+\com.manual\src\main\java
+C:\Users\tusha\OneDrive\Desktop\NewGIT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2338881838.index
+\com.manual\src\main\java

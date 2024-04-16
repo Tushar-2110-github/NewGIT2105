@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\tusha\OneDrive\Desktop\NewGIT\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+431533684.index
+2338881838.index
+989487037.index
+2084334515.index
+3528645774.index
+3544519176.index
+4122034858.index
+2814333075.index
